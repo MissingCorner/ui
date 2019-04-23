@@ -1,5 +1,7 @@
 # MCUI
 
+[Example and Documentation](https://missingcorner.github.io/ui)
+
 # Getting started
 
 This project uses:
@@ -20,7 +22,7 @@ yarn start        # start storybook to develop component
 
 yarn build:ui     # run tsc to compile tsx to js code
 
-yarn build:docs    # build storybook into docs folder
+yarn build:docs   # build storybook into docs folder
 
 yarn publish      # publish new version to npm
 ```
